@@ -6,4 +6,3 @@ RUN adduser --disabled-login --system spinnaker
 RUN mkdir -p /opt/echo/plugins && chown -R spinnaker:nogroup /opt/echo/plugins
 USER spinnaker
 CMD ["/opt/echo/bin/echo"]
-#
