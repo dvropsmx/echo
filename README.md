@@ -169,7 +169,7 @@ scheduler:
     windowMs: 300000
 ```
 
-## Monitoring
+## Monitoring ###
 `echo` emits numerous metrics that allow for monitoring its operation.  
 Some of the key metrics are listed below:
 
